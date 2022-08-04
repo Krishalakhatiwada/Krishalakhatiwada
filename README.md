@@ -6,6 +6,8 @@
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=krishalakhatiwada.krishalakhatiwada)
+<a href="https://github.com/aashishxetri5?tab=followers"><img src="https://img.shields.io/github/followers/aashishxetri5?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 </p>
 <div size='20px'> Hi! My name is Krishala Khatiwada. Thank You for taking the time to view my GitHub Profile :smile: 
